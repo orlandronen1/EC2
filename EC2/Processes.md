@@ -1,5 +1,3 @@
-# Health Varity - JT Thompson
-
 ## Data Validation
 
 ### Use Case
