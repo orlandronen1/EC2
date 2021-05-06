@@ -15,7 +15,7 @@ namespace EC2
 
         public IWebElement RDSTab => LinkText("RDS");
 
-        public IWebElement HeaderText => XPath("//h1/small");
+        public IWebElement HeaderText => XPath("//h1");
 
         public IWebElement TestRow => Id("db.m3.medium");
         #endregion
