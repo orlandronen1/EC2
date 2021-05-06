@@ -28,7 +28,7 @@ Third, I'd want to verify that the data loaded correctly. I'd search the databas
 Ultimately though, I feel this process would be properly covered through unit and interation tests. It's a core business process and at this stage I feel QA should mostly be worried that 'it ran' and we can trust our automation and code testing processes.
 
 
-##Procedure
+## Procedure
 ### Overview
 >The engineering development team wants to have more frequent releases of their services.
 Today, one of their applications deploys the frontend and backend on the same build image.
